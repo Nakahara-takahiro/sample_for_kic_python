@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ===== 光都ICTクラブ 追加ルール =====
+# 効果音作成ツール Bfxr（サードパーティ製アプリ本体）
+games/pygame_tkinter/Bfxr/
+
+# アーカイブ
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 市販教材由来の素材・サンプル（著作権のため管理対象外）
+games/ref_python_for_game/
+games/ref_sample_opp/

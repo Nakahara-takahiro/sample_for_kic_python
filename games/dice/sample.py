@@ -1,0 +1,3 @@
+import dice
+
+dice.dice()
